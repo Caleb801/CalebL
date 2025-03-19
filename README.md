@@ -5,10 +5,7 @@
 - <b>General Cyber Projects</b>
   - [Remote PC control project]()
   - [Documentation of me and a couple of other students messing with the server racks at our school]()
-- <b>Malware Analysis and Reverse Engineering</b>
-  - [Packed vs Non-packed File Analysis Using Detect It Easy]()
-  - [Dynamic analyzation of RAT file]()
-  - [Silly Putty Trojan Analysis]()
+
 - <b>Digital Forensics</b>
   - [Digital image carving using scalpel]()
   - [Forensic Disk Image Analysis: Data Leakage Investigation]()
@@ -20,9 +17,9 @@
 
 
 <b> <h2> 🔭 I’m currently working on ... </h2> </b>
-- getting my CompTIA Certification
-- my school's server rack
-- finding a mentor or guide to teach me and guide me
+- Getting my CompTIA Certification
+- My school's server rack
+- Finding a mentor or guide to teach me and guide me
 
 <h2> 🤳 Connect with me:</h2>
 
